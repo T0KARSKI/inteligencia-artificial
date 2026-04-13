@@ -9,6 +9,7 @@ Implementação do problema Lights Out utilizando diferentes algoritmos de busca
 - Algoritmo A (astar.py)
 - utils.py
 - main.py
+- .gitignore
 
 Instruções: 
 
@@ -19,4 +20,6 @@ Instruções:
 -> bash: python main.py
 
 
-Aluno: Gabriel Tokarski Almeida
+Alunos: 
+Gabriel Tokarski Almeida
+Henrique Marcel Rosa Schneider
