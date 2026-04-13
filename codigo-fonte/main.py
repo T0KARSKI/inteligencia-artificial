@@ -11,6 +11,7 @@ initial_state = [
     [0, 1, 0]
 ]
 
+print("Resultados")
 print("BFS:", bfs(initial_state))
 print("DFS:", dfs(initial_state))
 print("A*:", astar(initial_state))
