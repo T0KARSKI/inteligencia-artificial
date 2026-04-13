@@ -15,7 +15,7 @@ Instruções:
 
 -> Faça o Download.ZIP do repositório
 
--> Abra um terminal CMD / Powershell na pasta inteligencia-artificial/estudo-dirigido-1/codigo-fonte/
+-> Abra um terminal CMD / Powershell na pasta inteligencia-artificial-main\codigo-fonte
 
 -> bash: python main.py
 
