@@ -10,4 +10,9 @@ Implementação do problema Lights Out utilizando diferentes algoritmos de busca
 - utils.py
 - main.py
 
+Instruções: 
+-> Faça o Download.ZIP do repo e rode no CMD / Powershell
+-> bash: python main.py
+
+
 Aluno: Gabriel Tokarski Almeida
